@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run snippet_to_text_app.py

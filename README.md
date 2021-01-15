@@ -18,3 +18,9 @@ The user uploads a text snippet from any document. The app outputs flowing text 
 ### Deployment
 The web-app ([link](https://snippet-to-text.herokuapp.com/)) is deployed on a Heroku server and live!  
 (The server may take up to 5 seconds to load the page. Heroku restarts the server after periods of inactivity)
+
+### Authors
+
+* **Siddharth Saha** - [trunc8](https://github.com/trunc8)
+
+<p align='center'>Created with :heart: by <a href="https://www.linkedin.com/in/sahasiddharth611/">Siddharth</a></p>

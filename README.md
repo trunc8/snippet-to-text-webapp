@@ -1,6 +1,9 @@
 # Snippet to Text Web-app
 
-![Snippet to Text Demo](https://raw.githubusercontent.com/trunc8/snippet-to-text-webapp/master/assets/snippet-to-text-demo.png)
+![Snippet to Text Interface](assets/snippet-to-text-demo.png)
+
+### Demo
+![Snippet to Text Demo](assets/snippet-to-text-demo.gif)
 
 ### Instructions to Use
 The user uploads a text snippet from any document. The app outputs flowing text separated by paragraph breaks.
